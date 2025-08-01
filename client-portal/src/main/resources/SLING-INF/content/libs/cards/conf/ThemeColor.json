@@ -1,0 +1,6 @@
+{
+  "jcr:primaryType": "nt:unstructured",
+  "primaryColor" : "#088AB2",
+  "secondaryColor" : "#033C5A",
+  "themeColor": "teal"
+}

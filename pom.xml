@@ -2014,5 +2014,6 @@
     <module>test-resources</module>
     <module>distribution</module>
     <module>Utilities</module>
+    <module>client-portal</module>
   </modules>
 </project>

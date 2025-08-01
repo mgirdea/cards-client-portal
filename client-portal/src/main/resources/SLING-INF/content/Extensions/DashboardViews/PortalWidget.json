@@ -1,0 +1,7 @@
+{
+  "jcr:primaryType": "cards:Extension",
+  "cards:extensionPointId": "cards/coreUI/dashboardviews/entry",
+  "cards:extensionName": "Portal Widget",
+  "cards:extensionRenderURL": "asset:alamya-clientportal.PortalView.js",
+  "cards:defaultOrder": 4
+}
